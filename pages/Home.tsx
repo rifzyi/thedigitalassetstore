@@ -2,8 +2,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { PRODUCTS, BUNDLES, TESTIMONIALS } from '../data';
-import { ProductCard } from '../components/ProductCard';
+import { PRODUCTS, BUNDLES, TESTIMONIALS } from '../data.ts';
+import { ProductCard } from '../components/ProductCard.tsx';
 import { ArrowRight, CheckCircle2, Zap, Layout as LayoutIcon, Camera, Paintbrush, X } from 'lucide-react';
 
 const Hero = () => (

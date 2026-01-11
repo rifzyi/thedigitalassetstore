@@ -1,23 +1,23 @@
 
 import React from 'react';
 import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
-import { motion, AnimatePresence } from 'framer-motion';
-import { Layout } from './components/Layout';
-import { Home } from './pages/Home';
-import { Shop } from './pages/Shop';
-import { ProductDetail } from './pages/ProductDetail';
-import { Bundles } from './pages/Bundles';
-import { About } from './pages/About';
-import { FAQ } from './pages/FAQ';
-import { Blog } from './pages/Blog';
-import { Checkout } from './pages/Checkout';
-import { Cart } from './pages/Cart';
-import { HowItWorks } from './pages/HowItWorks';
-import { Advantages } from './pages/Advantages';
-import { TestimonialsPage } from './pages/TestimonialsPage';
-import { BeforeAfterPage } from './pages/BeforeAfterPage';
-import { PaymentSimulator } from './pages/PaymentSimulator';
-import { CartProvider } from './context/CartContext';
+import { AnimatePresence, motion } from 'framer-motion';
+import { Layout } from './components/Layout.tsx';
+import { Home } from './pages/Home.tsx';
+import { Shop } from './pages/Shop.tsx';
+import { ProductDetail } from './pages/ProductDetail.tsx';
+import { Bundles } from './pages/Bundles.tsx';
+import { About } from './pages/About.tsx';
+import { FAQ } from './pages/FAQ.tsx';
+import { Blog } from './pages/Blog.tsx';
+import { Checkout } from './pages/Checkout.tsx';
+import { Cart } from './pages/Cart.tsx';
+import { HowItWorks } from './pages/HowItWorks.tsx';
+import { Advantages } from './pages/Advantages.tsx';
+import { TestimonialsPage } from './pages/TestimonialsPage.tsx';
+import { BeforeAfterPage } from './pages/BeforeAfterPage.tsx';
+import { PaymentSimulator } from './pages/PaymentSimulator.tsx';
+import { CartProvider } from './context/CartContext.tsx';
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
