@@ -1,0 +1,10 @@
+{
+  "name": "The Digital Asset Store",
+  "short_name": "DigitalAsset",
+  "description": "Premium Marketplace for Notion, Canva, UI Kit, and Lightroom. Built for high productivity and aesthetics.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": []
+}
