@@ -9,7 +9,7 @@ export const PRODUCTS: Product[] = [
     description: 'Sistem lengkap untuk mengelola hidup, tugas, dan keuangan dalam satu tempat.',
     price: 99000,
     category: 'Notion',
-    image: 'https://images.unsplash.com/photo-1614332287897-cdc485fa562d?auto=format&fit=crop&w=800&q=80',
+    image: 'asset/img/Notion Personal OS.png',
     features: ['Dashboard Terpusat', 'Pelacak Keuangan', 'Habit Tracker', 'Gratis Update'],
     downloadUrl: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
   },
