@@ -6,12 +6,12 @@ export const PRODUCTS: Product[] = [
   {
     id: 'notion-personal-os',
     name: 'Notion Personal OS',
-    description: 'Sistem lengkap untuk mengelola hidup, tugas, dan keuangan dalam satu tempat.',
-    price: 99000,
+    description: 'Life OS adalah sistem personal berbasis Notion yang dirancang untuk membantu kamu menata hidup dengan lebih sadar, tenang, dan berkelanjutan, tanpa mengejar produktivitas berlebihan. Template ini lahir dari proses refleksi pribadi dan penggunaan sehari-hari, bukan dari teori sempurna atau metode instan.',
+    price: 127700,
     category: 'Notion',
-    image: 'https://www.notion.com/_next/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Ftemplate%2Fdadc92e8-5685-4422-a78e-cb2648279d3e%2F1768354746455%2Fdesktop.jpg&w=1920&q=75',
+    image: '/images/Gemini_Generated_Image_u70ju6u70ju6u70j.png',
     features: ['Dashboard Terpusat', 'Pelacak Keuangan', 'Habit Tracker', 'Gratis Update'],
-    downloadUrl: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
+    downloadUrl: 'https://lynk.id/rifzyi/ngovk2d83xd9/checkout?token=cGFyYW1zPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0x'
   },
   {
     id: 'notion-second-brain',
