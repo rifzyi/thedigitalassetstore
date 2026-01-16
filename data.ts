@@ -171,7 +171,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'lightroom-preset-film',
-    name: 'The Ultimate Automotive Lightroom Preset Pack',
+    name: 'The Ultimate Automotive Lightroom Preset [10 Preset]',
     description: 'Paket ini berisi 10 preset otomotif unik yang dibuat dengan tangan, disempurnakan untuk meningkatkan dan memperkuat keindahan foto mobil Anda — baik Anda memotret perjalanan saat matahari terbenam, kendaraan mewah yang berkilauan, garasi industri, dan segala sesuatu di antaranya.',
     price: 255000,
     category: 'Lightroom',
