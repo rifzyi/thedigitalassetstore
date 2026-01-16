@@ -161,13 +161,13 @@ export const PRODUCTS: Product[] = [
   // LIGHTROOM CATEGORY
   {
     id: 'lightroom-preset-minimal',
-    name: 'Minimalist Moody Presets',
-    description: '10 Preset Lightroom untuk hasil foto bersih, tajam, dan profesional.',
+    name: 'The Ultimate Dark & Moody Lightroom Preset',
+    description: 'Dari nuansa malam yang penuh teka-teki, hingga warna biru dramatis di pantai yang diterpa badai, preset ini akan mengubah apa pun, mulai dari lanskap, potret, pemandangan kota, dan segala sesuatu di antaranya menjadi gambar yang menakjubkan dengan sentuhan kegelapan dan intensitas..',
     price: 49000,
     category: 'Lightroom',
-    image: 'https://images.unsplash.com/photo-1493863641943-9b68992a8d07?auto=format&fit=crop&w=800&q=80',
+    image: 'https://shop.gridfiti.com/cdn/shop/files/DarkandMoodyPresets_ProductImages_0_Hero_e66f12f7-06f3-4764-be0a-5cc981b6de7a_864x864.jpg?v=1723237899',
     features: ['Desktop & Mobile', 'One Click Edit', 'Instruction Manual', 'DNG Files'],
-    downloadUrl: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
+    downloadUrl: 'https://shop.gridfiti.com/products/dark-moody-lightroom-preset-pack?srsltid=AfmBOopOT3TyziSYDKhrQ9M9I2gJMGKm6Ao7zPgVLiwrUxZLNuZyYoa9'
   },
   {
     id: 'lightroom-preset-film',
