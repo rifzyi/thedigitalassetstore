@@ -19,7 +19,7 @@ export const PRODUCTS: Product[] = [
     description: 'Template Notion berdasarkan metode PARA Tiago Forte untuk menyimpan ide dan proyek.',
     price: 129000,
     category: 'Notion',
-    image: 'https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=800&q=80',
+    image: 'https://www.notion.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Ftemplate%2F85e9abdd-ac06-47f8-a935-8618daa630bd%2F1718367107348%2Fdesktop.jpg&w=1920&q=75',
     features: ['Sistem PARA', 'Zettelkasten Library', 'Project Management', 'Archive System'],
     downloadUrl: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
   },
