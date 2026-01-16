@@ -162,7 +162,7 @@ export const PRODUCTS: Product[] = [
   {
     id: 'lightroom-preset-minimal',
     name: 'The Ultimate Dark & Moody Lightroom Preset [8 Preset]',
-    description: 'Dari nuansa malam yang penuh teka-teki, hingga warna biru dramatis di pantai yang diterpa badai, preset ini akan mengubah apa pun, mulai dari lanskap, potret, pemandangan kota, dan segala sesuatu di antaranya menjadi gambar yang menakjubkan dengan sentuhan kegelapan dan intensitas..',
+    description: 'Dari nuansa malam yang penuh teka-teki, hingga warna biru dramatis di pantai yang diterpa badai, preset ini akan mengubah apa pun, mulai dari lanskap, potret, pemandangan kota, dan segala sesuatu di antaranya menjadi gambar yang menakjubkan dengan sentuhan kegelapan dan intensitas.',
     price: 255000,
     category: 'Lightroom',
     image: 'https://shop.gridfiti.com/cdn/shop/files/DarkandMoodyPresets_ProductImages_0_Hero_e66f12f7-06f3-4764-be0a-5cc981b6de7a_864x864.jpg?v=1723237899',
@@ -171,13 +171,13 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: 'lightroom-preset-film',
-    name: 'Analogue Film Presets',
-    description: 'Dapatkan tampilan foto analog klasik dengan grain dan warna vintage yang otentik.',
-    price: 59000,
+    name: 'The Ultimate Automotive Lightroom Preset Pack',
+    description: 'Paket ini berisi 10 preset otomotif unik yang dibuat dengan tangan, disempurnakan untuk meningkatkan dan memperkuat keindahan foto mobil Anda — baik Anda memotret perjalanan saat matahari terbenam, kendaraan mewah yang berkilauan, garasi industri, dan segala sesuatu di antaranya.',
+    price: 255000,
     category: 'Lightroom',
-    image: 'https://images.unsplash.com/photo-1542038784456-1ea8e935640e?auto=format&fit=crop&w=800&q=80',
+    image: 'https://shop.gridfiti.com/cdn/shop/files/AutomotivePresets_ProductImages_0_Hero_b237de48-7286-42c3-b8a5-7687bb758e3b_864x864.jpg?v=1723238258',
     features: ['Film Grain Styles', 'Kodak Look-alikes', 'Warm Tones', 'Matte Finish'],
-    downloadUrl: 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf'
+    downloadUrl: 'https://shop.gridfiti.com/products/automotive-lightroom-preset-pack?pr_prod_strat=e5_desc&pr_rec_id=2eb46ccb3&pr_rec_pid=7956031176953&pr_ref_pid=8054018834681&pr_seq=uniform'
   },
   {
     id: 'lightroom-preset-travel',
