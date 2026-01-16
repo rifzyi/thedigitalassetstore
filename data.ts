@@ -161,7 +161,7 @@ export const PRODUCTS: Product[] = [
   // LIGHTROOM CATEGORY
   {
     id: 'lightroom-preset-minimal',
-    name: 'The Ultimate Dark & Moody Lightroom Preset',
+    name: 'The Ultimate Dark & Moody Lightroom Preset [8 Preset]',
     description: 'Dari nuansa malam yang penuh teka-teki, hingga warna biru dramatis di pantai yang diterpa badai, preset ini akan mengubah apa pun, mulai dari lanskap, potret, pemandangan kota, dan segala sesuatu di antaranya menjadi gambar yang menakjubkan dengan sentuhan kegelapan dan intensitas..',
     price: 49000,
     category: 'Lightroom',
