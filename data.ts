@@ -9,7 +9,7 @@ export const PRODUCTS: Product[] = [
     description: 'Life OS adalah sistem personal berbasis Notion yang dirancang untuk membantu kamu menata hidup dengan lebih sadar, tenang, dan berkelanjutan, tanpa mengejar produktivitas berlebihan. Template ini lahir dari proses refleksi pribadi dan penggunaan sehari-hari, bukan dari teori sempurna atau metode instan.',
     price: 127700,
     category: 'Notion',
-    image: 'https://cdn.lynkid.my.id/products/30-12-2025/1767053956376_9651379.webp',
+    image: 'https://www.notion.com/_next/image?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Ftemplate%2Fdadc92e8-5685-4422-a78e-cb2648279d3e%2F1768354746455%2Fdesktop.jpg&w=1920&q=75',
     features: ['Dashboard Terpusat', 'Pelacak Keuangan', 'Habit Tracker', 'Gratis Update'],
     downloadUrl: 'https://lynk.id/rifzyi/ngovk2d83xd9/checkout?token=cGFyYW1zPSU1QiU1RCZiaWRfcHJpY2U9MCZxdHlfcHJvZD0x'
   },
